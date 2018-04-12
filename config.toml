@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://adventurex.github.io/"
 languageCode = "en-us"
-title = "Agency"
+title = "AdventureX"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
@@ -17,8 +17,8 @@ googleAnalytics = ""
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "Your name"
-  description = "Your description"
+  name = "AdventureX"
+  description = "AdventureX"
   # email = "your@email.com"
 
   # Link custom assets relative to /static
@@ -90,13 +90,13 @@ googleAnalytics = ""
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
+      icon = "fa-tree"
       title = "Treks"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
+      icon = "fa-bus"
       title = "Trips"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
@@ -306,12 +306,12 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.footer.social]]
       icon = "fa-twitter"
-      link = "#"
+      link = "https://twitter.com/Teamadventurex"
       title = "Twitter"
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      link = "#"
+      link = "https://www.facebook.com/TeamAdventureX/"
       title = "Facebook"
 
     [[params.footer.social]]
